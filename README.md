@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## Here's something cool: :snowflake:
 
-With  [`node.js`](https://nodejs.org/en/download/package-manager/) installed, run this :running:
+With  [`npm`](https://nodejs.org/en/download/package-manager/) running, try this :running:
 ```console
 > npx adkoolz
 ```
