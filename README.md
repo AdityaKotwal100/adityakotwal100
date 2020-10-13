@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **AdityaKotwal100/adityakotwal100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi :raising_hand: Welcome to my GitHub! :trophy:
+
+
+## Here's something cool: :snowflake:
+
+With  [`node.js`](https://nodejs.org/en/download/package-manager/) installed, run this :running:
+```console
+> npx adk99
+```
+
+## :computer: All the best on your code-ventures. :computer:
