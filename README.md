@@ -1,4 +1,6 @@
-<h2> Hello! I am Aditya! </h2>
+<div align="center">
+  <h2> Aditya Ranjit Kotwal </h2>
+</div>
 
 ```python
 aditya = {
