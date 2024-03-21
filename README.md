@@ -1,5 +1,5 @@
 <div align="center">
-  <h2> Aditya Ranjit Kotwal </h2>
+  <h2> Hello, I am Aditya. </h2>
 </div>
 
 ```python
