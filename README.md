@@ -1,26 +1,25 @@
-<!--
-**AdityaKotwal100/adityakotwal100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Hello! I am Aditya! </h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Hi :raising_hand: Welcome to my GitHub! :trophy:
-
-
-## Here's something cool: :snowflake:
-
-With  [`npm`](https://nodejs.org/en/download/package-manager/) running, try this :running:
-```console
-> npx adkoolz
+```python
+aditya = {
+    "pronouns": ("he", "him"),
+    "skills": {
+        "programming_languages": ["Python", "C/C++"],
+        "frameworks_and_libraries": [
+            "Flask", "FastAPI", "Django", "Apache Airflow", "gRPC",
+        ],
+        "databases": ["MongoDB", "Pinecone", "PostgreSQL"],
+        "cloud": ["AWS", "Azure", "Snowflake"],
+        "other": ["Git", "Docker", "Kubernetes", "Jmeter", "RabbitMQ"],
+    },
+    "interests": {
+        "professional": [
+            "Multiprocessor Operating Systems",
+            "Distributed & Cloud Computing",
+            "Databases",
+            "Backend & Data Engineering",
+        ],
+        "personal": ["Music", "Tennis", "Swimming", "E-Sports"],
+    },
+}
 ```
-
-## :computer: All the best on your code-ventures. :computer:
