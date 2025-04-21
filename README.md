@@ -4,7 +4,6 @@
 <h1><b>Hi there, I'm </b><a href="https://github.com/adityakotwal100">Aditya</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 <img src="assets/me.gif" width="100%">
-<br>
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp;***About me***
 
