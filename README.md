@@ -1,6 +1,4 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<br>
-
 <h1><b>Hi there, I'm </b><a href="https://github.com/adityakotwal100">Aditya</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 <img src="assets/me.gif" width="100%">
@@ -76,12 +74,5 @@
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)&nbsp;
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
 
-<br>
-
-
-
-<!-- Visitor Counter -->
-
-<br>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
